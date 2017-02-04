@@ -1,0 +1,12 @@
+# marker constants
+ARROW = 'm0'
+BATMAN = 'm1'
+SUPERMAN = 'm2'
+M3 = 'm3'
+M4 = 'm4'
+M5 = 'm5'
+M6 = 'm6'
+ROCK = 'm7'
+PAPER = 'm8'
+M9 = 'm9'
+SCISSORS = 'm10'
