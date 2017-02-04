@@ -4,11 +4,11 @@ Play with Batman and Superman, point to the nearest face with a giant 3D virtual
 Better use with sound!
 
 ## Some images
-![Fiducial Markers recognition](/README_images/im2.png?raw=true "Fiducial Markers recognition")
-![Face and gesture recognition](/README_images/im3.png?raw=true "Face and gesture recognition")
-![3D figures being shown on the markers](/README_images/im1.png?raw=true "3D figures being shown on the markers")
-![Interact with the environment](/README_images/im4.png?raw=true "Interact with the environment")
-![Play Rock, Paper, Scissors!](/README_images/im5.png?raw=true, "Play Rock, Paper, Scissors too!")
+![Fiducial Markers recognition](/README_images/im2.jpg?raw=true "Fiducial Markers recognition")
+![Face and gesture recognition](/README_images/im3.jpg?raw=true "Face and gesture recognition")
+![3D figures being shown on the markers](/README_images/im1.jpg?raw=true "3D figures being shown on the markers")
+![Interact with the environment](/README_images/im4.jpg?raw=true "Interact with the environment")
+![Play Rock, Paper, Scissors!](/README_images/im5.jpg?raw=true, "Play Rock, Paper, Scissors too!")
 
 ## Dependencies
 * Python 2.7
